@@ -1,6 +1,6 @@
 {
   "name": "tejas",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "bin": {
     "tejas": "./index.js"
