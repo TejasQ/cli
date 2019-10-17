@@ -2,7 +2,7 @@
 
 HASHTAG YOLO.
 
-![demo](./lmao.gif)
+![demo](./rofl.gif)
 
 ## Run
 
